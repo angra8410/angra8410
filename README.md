@@ -14,8 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate data enthusiast from <img src="./assets/images/colombian_flag.svg"  height="48" title="Colombia", specializing in cloud analytics and business intelligence. By day, I dive into data engineering, Power BI, and Azure solutions; by night, I explore new tech, play guitar, and enjoy outdoor adventures. I love connecting with fellow learners and sharing knowledge about data, technology, and creative problem-solving.
-
+I’m a passionate data enthusiast from <img src="./assets/images/colombian_flag.svg" height="20" title="Colombia"/> who loves exploring the world of data. My journey so far has given me experience with Power BI, Excel, Power Query, and SQL Server, and I’m currently diving deeper into cloud analytics and business intelligence. In my free time, I enjoy discovering new technologies, playing guitar, and getting outdoors—always eager to learn and connect with others who share my curiosity!
 
 
 ## 🏆 Featured Projects
