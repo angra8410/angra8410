@@ -19,8 +19,10 @@ In my free time, I enjoy discovering new technologies, playing guitar 🎸, gett
 
 ## 🏆 Featured Projects
 
-- **[Bellabeat Device Usage Analysis (Current)](https://github.com/angra8410/bellabeat-device-usage-analysis)**  
+- **[Bellabeat Device Usage Analysis (Finished)](https://github.com/angra8410/bellabeat-device-usage-analysis)**  
   Data exploration and insights on smart devices for women's health.
+- 🔭 I am currently working on Expense Tracker Smart App (under construction)
+- 🔭 As a side projects, I am also working in a Language App AI-powered and a PetClinic360
 
 
 ## 🌱 Currently Learning
