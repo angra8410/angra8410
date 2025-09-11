@@ -20,8 +20,7 @@
 
 - **[Bellabeat Device Usage Analysis (Current)](https://github.com/angra8410/bellabeat-device-usage-analysis)**  
   Data exploration and insights on smart devices for women's health.
-- **[Healthcare BI Dashboard](https://github.com/angra8410/healthcare-bi-dashboard)**
-- **[Excel Automation Toolkit](https://github.com/angra8410/excel-automation-toolkit)**
+
 
 ## 🌱 Currently Learning
 
