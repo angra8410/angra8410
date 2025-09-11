@@ -30,7 +30,7 @@
 | ![Microsoft Fabric](./assets/images/fabric.png) | ![Data Factory](./assets/images/data_factory.png) |
 
 <!-- Optionally, for a third row: -->
- |  |
+ 
 
 ## 📫 Connect with me
 
