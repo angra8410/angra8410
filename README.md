@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-I’m a passionate data enthusiast from <img src="./assets/images/colombia_flag_rounded.png" height="20" title="Colombia"/> who loves exploring the world of data. My journey so far has given me experience with Power BI, Excel, Power Query, and SQL Server, and I’m currently diving deeper into cloud analytics and business intelligence. In my free time, I enjoy discovering new technologies, playing guitar, and getting outdoors—always eager to learn and connect with others who share my curiosity!
+I’m a passionate data enthusiast from <img src="./assets/images/colombia_flag_rounded.png" height="20" title="Colombia"/> who loves exploring the world of data. My journey so far has given me experience with Power BI, Excel, Power Query, and SQL Server, and I’m currently diving deeper into cloud analytics and business intelligence.  
+In my free time, I enjoy discovering new technologies, playing guitar 🎸, getting outdoors 🌳, walking my dogs 🐕, going to the cinema 🎬, and reading 📚—always eager to learn and connect with others who share my curiosity!
 
 ## 🏆 Featured Projects
 
