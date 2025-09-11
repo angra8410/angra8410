@@ -25,9 +25,9 @@
 
 ## 🌱 Currently Learning
 
- ![Advanced Power Bi](./assets/images/power_bi.png) ![Advanced Power Bi](./assets/images/256px-Databricks_Logo.png)
+ ![Advanced Power Bi](./assets/images/power_bi.png)     ![Advanced Power Bi](./assets/images/256px-Databricks_Logo.png)
  
- ![Microsoft Azure](./assets/images/128px-Microsoft_Azure.svg)  ![Data Factory](./assets/images/data_factory.png)
+ ![Microsoft Azure](./assets/images/128px-Microsoft_Azure.svg)      ![Data Factory](./assets/images/data_factory.png)
 
  ![Microsoft Fabric](./assets/images/fabric.png)
 
