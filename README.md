@@ -25,7 +25,7 @@
 
 ## 🌱 Currently Learning
 
-| <img src="./assets/images/power_bi.png"  height="48"/><br>Power BI | <img src="./assets/images/256px-Databricks_Logo.png" height="48"/><br>Databricks | <img src="./assets/images/fabric.png" height="48"/><br>Microsoft Fabric | <img src="./assets/images/data_factory.png" height="48"/><br>Data Factory |
+| <img src="./assets/images/power_bi.png"  height="48" title="Power BI"/><br>Power BI | <img src="./assets/images/256px-Databricks_Logo.png" height="48" title="Databricks"/><br>Databricks | <img src="./assets/images/fabric.png" height="48" title="Microsoft Fabric"/><br>Microsoft Fabric | <img src="./assets/images/data_factory.png" height="48" title="Data Factory"/><br>Data Factory |
 |:---:|:---:|:---:|:---:|
 
 
