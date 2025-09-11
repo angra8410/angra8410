@@ -12,11 +12,11 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Design interactive Power BI dashboards
-- Automate data workflows with Excel, Power Query & SQL
-- Tell stories with data for healthcare impact
+I’m a passionate data enthusiast from <img src="./assets/images/colombian_flag.svg"  height="48" title="Colombia", specializing in cloud analytics and business intelligence. By day, I dive into data engineering, Power BI, and Azure solutions; by night, I explore new tech, play guitar, and enjoy outdoor adventures. I love connecting with fellow learners and sharing knowledge about data, technology, and creative problem-solving.
+
+
 
 ## 🏆 Featured Projects
 
