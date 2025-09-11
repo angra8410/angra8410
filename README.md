@@ -25,7 +25,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced DAX for Power BI
+- ![Advanced Power Bi](./assets/images/power_bi.png)
 - Data Engineering with Python
 
 ## 📫 Connect with me
