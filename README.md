@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/angra8410/my-portfolio-github/main/assets/images/google-analytics-badge.PNG" width="120" align="right" style="border-radius:50%">
 
 #  Hi there 👋 , I'm Antonio Gutiérrez
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniogutierrez-datos/) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat&logo=github&logoColor=white)](https://angra8410.github.io/my-portfolio-github/) |
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniogutierrez-datos/) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat&logo=github&logoColor=white)](https://angra8410.github.io/my-new-portfolio/) |
 |:---:|:---:|
 
  
 💼 **Programmer Analyst** at Health Management Services  
 🛠️ **Power BI, Excel, SQL**  
 📊 Passionate about transforming data into actionable insights  
-🔗 [My Portfolio](https://angra8410.github.io/my-portfolio-github/)
+🔗 [My Portfolio](https://angra8410.github.io/my-new-portfolio/)
 
 ---
 
@@ -19,7 +19,7 @@ In my free time, I enjoy discovering new technologies, playing guitar 🎸, gett
 
 ## 🏆 Featured Projects
 
-- **[Bellabeat Device Usage Analysis (Finished)](https://github.com/angra8410/bellabeat-device-usage-analysis)**  
+- **[Bellabeat Device Usage Analysis (Finished)](https://angra8410.github.io/my-new-portfolio/)**  
   Data exploration and insights on smart devices for women's health.
 - 🔭 I am currently working on Expense Tracker Smart App (under construction)
 - 🔭 As a side projects, I am also working in a Language App AI-powered and a PetClinic360
