@@ -5,7 +5,7 @@
 |:---:|:---:|
 
  
-💼 **Programmer Analyst** at Health Management Services  
+💼 **Data Analyst** at Health Management Services  
 🛠️ **Power BI, Excel, SQL**  
 📊 Passionate about transforming data into actionable insights  
 🔗 [My Portfolio](https://angra8410.github.io/my-new-portfolio/)
